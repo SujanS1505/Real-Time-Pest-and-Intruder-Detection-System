@@ -1,0 +1,6 @@
+pip install tensorflow
+pip install pillow
+pip install wikipedia-api
+pip install folium
+pip install geotext
+pip install gradio
